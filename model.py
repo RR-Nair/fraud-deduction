@@ -14,3 +14,7 @@ def model4():
     print("adding code for ML Model4")
 
 print ("model 2 is performing well")
+
+a = 5
+b = 6
+print (a+b)
